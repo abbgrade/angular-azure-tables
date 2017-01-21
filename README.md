@@ -5,10 +5,10 @@ It is based on the [Angular QuickStart Source](https://github.com/angular/quicks
 
 ## Roadmap
 
-[ ] Authentication with Azure Storage Emulator
-[ ] Listing, Creating and Deletion of Storrage Tables
-[ ] Selecting, Inserting and Updating Rows
-[ ] Authentication with Azure Storage - Storage Accounts
+- [ ] Authentication with Azure Storage Emulator
+- [ ] Listing, Creating and Deletion of Storrage Tables
+- [ ] Selecting, Inserting and Updating Rows
+- [ ] Authentication with Azure Storage - Storage Accounts
 
 ## Prerequisites
 
