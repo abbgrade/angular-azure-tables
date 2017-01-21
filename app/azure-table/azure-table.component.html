@@ -1,0 +1,11 @@
+<h3> Azure Storage Tables </h3>
+
+<input type="text" placeholder="TableName" [(ngModel)]="tableConfiguration.tableName">
+<button (click)="createTable()">Create Table</button>
+
+<h4> Tables </h4>
+<table>
+    <tr *ngFor="let table of tables">
+        <td> x </td>
+    </tr>
+</table>

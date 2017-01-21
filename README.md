@@ -1,16 +1,14 @@
-# Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+# Angular Azure Tables
 
-This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
-the foundation for most of the documentation samples and potentially a good starting point for your application.
+This repository holds a Angular Service to work with [Azure Table Storage](https://azure.microsoft.com/en-us/services/storage/tables/).
+It is based on the [Angular QuickStart Source](https://github.com/angular/quickstart).
 
-It's been extended with testing support so you can start writing tests immediately.
+## Roadmap
 
-**This is not the perfect arrangement for your application. It is not designed for production.
-It exists primarily to get you started quickly with learning and prototyping in Angular**
-
-We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
-Please keep that in mind before posting issues and PRs.
+[ ] Authentication with Azure Storage Emulator
+[ ] Listing, Creating and Deletion of Storrage Tables
+[ ] Selecting, Inserting and Updating Rows
+[ ] Authentication with Azure Storage - Storage Accounts
 
 ## Prerequisites
 
